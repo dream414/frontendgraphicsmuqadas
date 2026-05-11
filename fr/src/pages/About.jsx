@@ -39,11 +39,16 @@ export default function About() {
           </h2>
 
           <p className="text-gray-300 text-lg md:text-xl leading-relaxed">
-           I am a professional and dedicated creative visual designer. I give my designs an attractive and modern look, and I work with honesty and professionalism for my clients. Just as I create designs for myself, I deliver the same high-level service to my clients. My work fully satisfies my clients, and I always focus on providing excellent service rather than just fees.
- </p>
+            I am a professional and dedicated creative visual designer. I give my designs an attractive and modern look, and I work with honesty and professionalism for my clients. Just as I create designs for myself, I deliver the same high-level service to my clients. My work fully satisfies my clients, and I always focus on providing excellent service rather than just fees.
+          </p>
 
           <p className="text-gray-400">
             I love turning ideas into creative visuals that communicate strong messages and build brand identity.
+          </p>
+
+          {/* NEW LINE ADDED */}
+          <p className="text-purple-300 text-base md:text-lg">
+            I have worked on more than 120+ creative projects, and in this website I have showcased 120 of my graphic design projects for you to explore.
           </p>
 
         </div>
