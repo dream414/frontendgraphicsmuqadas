@@ -170,7 +170,7 @@ function Contact() {
             </div>
 
             <p className="text-white/60 text-sm">
-              I am always available ⚡
+            ⚡  I am always available ⚡
             </p>
 
           </div>
