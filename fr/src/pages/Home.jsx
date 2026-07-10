@@ -46,7 +46,7 @@ export default function Home() {
             </button>
 
             <button className="px-6 py-3 border border-purple-400 rounded-lg hover:bg-purple-800 transition hover:scale-105">
-              <Link to="/contact">Contact Me</Link> 
+             <a href="graphiccv.pdf">Download CV</a>
             </button>
           </div>
         </div>
