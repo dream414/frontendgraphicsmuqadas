@@ -12,7 +12,7 @@ export default function Reviews() {
 
   const reviews = [
     {
-      name: "Sarah Ali 💜",
+      name: " 💜 Sarah Ali 💜",
       role: "Brand Owner",
       image: "/public services.png",
       review:
